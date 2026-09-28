@@ -68,7 +68,7 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #1be8e8;
+    border: 1px solid #433850;
     border-radius: 8px;
     padding: 12px;
     background-color: #b30404;
@@ -100,7 +100,7 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #8b88ef;
+    border: 1px solid #403e75;
     padding: 10px;
     text-align: left;
 }
