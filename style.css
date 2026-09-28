@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #5c0ba2;
+    border-left: 4px solid #656368;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #340970;
@@ -111,7 +111,7 @@ blockquote {
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #9b48e3;
+    background-color: #5a5261;
     color: #1d0d64;
     text-align: center;
     padding: 16px;
