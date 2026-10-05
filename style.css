@@ -53,10 +53,10 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #656368;
+    border-left: 4px solid #f3edff;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #716f74;
+    background-color: #f5efff;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
